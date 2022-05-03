@@ -24,6 +24,8 @@ public class Application {
 		bookArray[0] = book0;
 		bookArray[1] = book1;
 		bookArray[2] = book2;
+				
+		
 
 		for (int i = 0; i < bookArray.length; i++) {
 			Book current = bookArray[i];
